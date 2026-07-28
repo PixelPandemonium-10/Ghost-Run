@@ -1,6 +1,16 @@
 # 👻 GHOST RUN
 
-A browser-based endless runner game built with HTML5 Canvas and JavaScript. Dash through a rainy, neon-lit cityscape as a ghost, dodging obstacles and chasing high scores.
+[![Live Demo]( https://pixelpandemonium-10.github.io/Ghost-Run/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+GHOST RUN is a browser-based infinite runner that evolves the genre from pure reaction-time testing into tactical prediction gameplay. Set in a rain-slicked cyberpunk city, the player controls a neon-lit silhouette sprinting across three lanes, reading telegraphed threats, and making split-second decisions that compound over time.
+
+Unlike traditional runners where obstacles appear without warning, GHOST RUN gives the player a predictive window—a flashing telegraph that reveals the required action before the threat materializes. Correct predictions build Focus, which extends future reaction windows and creates positive feedback loops for skilled play.
+
+The game was developed through an iterative design process involving four major revisions, each addressing deeper layers of game design: game feel, meaningful choice, predictive depth, emergent complexity, and production polish.
+
+[Play it now →]( https://pixelpandemonium-10.github.io/Ghost-Run/)
+
 
 ---
 
