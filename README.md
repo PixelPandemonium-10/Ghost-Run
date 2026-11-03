@@ -1,6 +1,6 @@
 # 👻 GHOST RUN
 
-[![Live Demo]( https://pixelpandemonium-10.github.io/Ghost-Run/)
+[![Live Demo]( https://youtu.be/jnnT5Rfl_44?si=H_C-30dxj6arLimn)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 GHOST RUN is a browser-based infinite runner that evolves the genre from pure reaction-time testing into tactical prediction gameplay. Set in a rain-slicked cyberpunk city, the player controls a neon-lit silhouette sprinting across three lanes, reading telegraphed threats, and making split-second decisions that compound over time.
